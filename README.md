@@ -12,7 +12,7 @@ The dataset consists of three key files:
 - *Locations Dataset*: Shows the distribution of ad spending across different locations, highlighting the geographical focus of various campaigns.
 - *Results Dataset*: Provides actual voting data, including the number of votes cast in each area and the percentage of voter turnout.
 
-You can download the dataset from [here](#).
+
 
 ## Analysis Summary
 
